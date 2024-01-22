@@ -1,2 +1,2 @@
 # Procfile
-web: gunicorn MentoringSystem.wsgi
+web: gunicorn CollegeERP.wsgi
